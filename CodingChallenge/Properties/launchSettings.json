@@ -1,8 +1,7 @@
 {
   "profiles": {
     "CodingChallenge": {
-      "commandName": "Project",
-      "commandLineArgs": "--read-file transactions.json"
+      "commandName": "Project"
     }
   }
 }
